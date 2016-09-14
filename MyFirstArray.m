@@ -13,3 +13,4 @@ for Index=1:N
     disp(['Element number ' num2str(Index) ' in the sorted array is ' num2str(SortedArrayDescend(Index))])
 end
 
+%testing
